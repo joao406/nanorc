@@ -1,0 +1,9 @@
+set linenumbers
+set tabsize 4
+set autoindent
+include "/usr/share/nano/*.nanorc"
+
+## PERSONALIZAÇÃO DAS CORES
+set titlecolor lightyellow,black
+set keycolor lightyellow,black
+set numbercolor lightyellow,black
